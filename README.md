@@ -1,10 +1,7 @@
-# LLM Hub 📚
+<div align="center">
+  <h1>LLM Hub 🤖</h1>
+</div>
 
-Building things around Large Language Models (LLMs) ! This repository covers various topics, including LLM fine-tuning techniques, framework integration, and deploying LLM models in production environments. 🚀
-
-**Contents:**
-- Fine-tuning LLMs : Learning how to adapt pre-trained models to specific tasks and domains. 💡
-- Framework Integration : Exploring seamless integration of LLMs with frameworks like Langchain for multilingual applications. 🌐
-- Production Deployment : Discovering best practices and guidelines for deploying LLM models in real-world settings. 🏭
+Learning things around Large Language Models (LLMs) ! This repository covers various libraries and frameworks that can be used with Language Models 🚀
 
 Happy coding! 😊
